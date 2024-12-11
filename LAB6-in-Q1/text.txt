@@ -1,0 +1,3 @@
+The laboratory framework includes a creative element but shifts the time-intensive
+aspects outside of the Two-Hour closed laboratory period. Within this structure, each
+laboratory includes three parts: Prelab, In-lab, and Post-lab.
